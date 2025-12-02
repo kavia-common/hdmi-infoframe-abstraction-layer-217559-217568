@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/hdmi-infoframe-abstraction-layer-217559-217568/infoframe_frontend"
+}
